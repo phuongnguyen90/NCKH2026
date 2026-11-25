@@ -4,7 +4,7 @@ Gói mã nguồn bàn giao kèm Báo cáo tổng kết đề tài NCKH cấp tr�
 
 > V.H. Nguyen, M.N. Phan, T.H.P. Nguyen, *SpecMultiMAE-AD: A self-supervised masked autoencoder for anomaly detection and localization in NIR spectra*, Applied Soft Computing 204 (2027) 116756.
 
-Đây là bản cài đặt lại theo bài báo, không phải mã nguồn gốc dùng để tạo các số liệu trong bài. Kết quả chạy lại trên dữ liệu thật có thể chênh lệch với số liệu đã công bố, do khác biệt về khởi tạo, phần cứng và các chi tiết bài báo không nêu (xem mục cuối).
+Đây là bản cài đặt lại theo kiến trúc đã công bố. Kết quả chạy lại trên dữ liệu thật có thể chênh lệch với số liệu đã công bố, do khác biệt về khởi tạo, phần cứng và các chi tiết bài báo không nêu (xem mục cuối).
 
 ## Cấu trúc thư mục
 
